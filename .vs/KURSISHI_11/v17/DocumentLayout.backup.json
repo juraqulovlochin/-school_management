@@ -1,0 +1,234 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\source\\repos\\KURSISHI_11\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A3C59C73-6328-4FCE-90F8-16B2665EAB0C}|KURSISHI_11.csproj|c:\\users\\hp\\source\\repos\\kursishi_11\\adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3C59C73-6328-4FCE-90F8-16B2665EAB0C}|KURSISHI_11.csproj|solutionrelative:adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3C59C73-6328-4FCE-90F8-16B2665EAB0C}|KURSISHI_11.csproj|C:\\Users\\HP\\source\\repos\\KURSISHI_11\\adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A3C59C73-6328-4FCE-90F8-16B2665EAB0C}|KURSISHI_11.csproj|solutionrelative:adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3C59C73-6328-4FCE-90F8-16B2665EAB0C}|KURSISHI_11.csproj|C:\\Users\\HP\\source\\repos\\KURSISHI_11\\chatform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A3C59C73-6328-4FCE-90F8-16B2665EAB0C}|KURSISHI_11.csproj|solutionrelative:chatform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3C59C73-6328-4FCE-90F8-16B2665EAB0C}|KURSISHI_11.csproj|C:\\Users\\HP\\source\\repos\\KURSISHI_11\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3C59C73-6328-4FCE-90F8-16B2665EAB0C}|KURSISHI_11.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3C59C73-6328-4FCE-90F8-16B2665EAB0C}|KURSISHI_11.csproj|C:\\Users\\HP\\source\\repos\\KURSISHI_11\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A3C59C73-6328-4FCE-90F8-16B2665EAB0C}|KURSISHI_11.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3C59C73-6328-4FCE-90F8-16B2665EAB0C}|KURSISHI_11.csproj|C:\\Users\\HP\\source\\repos\\KURSISHI_11\\uqtuvchiform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3C59C73-6328-4FCE-90F8-16B2665EAB0C}|KURSISHI_11.csproj|solutionrelative:uqtuvchiform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3C59C73-6328-4FCE-90F8-16B2665EAB0C}|KURSISHI_11.csproj|C:\\Users\\HP\\source\\repos\\KURSISHI_11\\chatform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3C59C73-6328-4FCE-90F8-16B2665EAB0C}|KURSISHI_11.csproj|solutionrelative:chatform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3C59C73-6328-4FCE-90F8-16B2665EAB0C}|KURSISHI_11.csproj|C:\\Users\\HP\\source\\repos\\KURSISHI_11\\uquvchiform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3C59C73-6328-4FCE-90F8-16B2665EAB0C}|KURSISHI_11.csproj|solutionrelative:uquvchiform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3C59C73-6328-4FCE-90F8-16B2665EAB0C}|KURSISHI_11.csproj|C:\\Users\\HP\\source\\repos\\KURSISHI_11\\uquvchiform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A3C59C73-6328-4FCE-90F8-16B2665EAB0C}|KURSISHI_11.csproj|solutionrelative:uquvchiform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3C59C73-6328-4FCE-90F8-16B2665EAB0C}|KURSISHI_11.csproj|C:\\Users\\HP\\source\\repos\\KURSISHI_11\\uqtuvchiform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A3C59C73-6328-4FCE-90F8-16B2665EAB0C}|KURSISHI_11.csproj|solutionrelative:uqtuvchiform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3C59C73-6328-4FCE-90F8-16B2665EAB0C}|KURSISHI_11.csproj|C:\\Users\\HP\\source\\repos\\KURSISHI_11\\loginparoluzgartirish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3C59C73-6328-4FCE-90F8-16B2665EAB0C}|KURSISHI_11.csproj|solutionrelative:loginparoluzgartirish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3C59C73-6328-4FCE-90F8-16B2665EAB0C}|KURSISHI_11.csproj|C:\\Users\\HP\\source\\repos\\KURSISHI_11\\loginparoluzgartirish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A3C59C73-6328-4FCE-90F8-16B2665EAB0C}|KURSISHI_11.csproj|solutionrelative:loginparoluzgartirish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3C59C73-6328-4FCE-90F8-16B2665EAB0C}|KURSISHI_11.csproj|C:\\Users\\HP\\source\\repos\\KURSISHI_11\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3C59C73-6328-4FCE-90F8-16B2665EAB0C}|KURSISHI_11.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AdminForm.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\KURSISHI_11\\AdminForm.cs",
+              "RelativeDocumentMoniker": "AdminForm.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\KURSISHI_11\\AdminForm.cs",
+              "RelativeToolTip": "AdminForm.cs",
+              "ViewState": "AgIAAKsAAAAAAAAAAAAAAL0AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T09:38:12.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ChatForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\KURSISHI_11\\ChatForm.cs",
+              "RelativeDocumentMoniker": "ChatForm.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\KURSISHI_11\\ChatForm.cs [Design]",
+              "RelativeToolTip": "ChatForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T02:34:46.968Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UquvchiForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\KURSISHI_11\\UquvchiForm.cs",
+              "RelativeDocumentMoniker": "UquvchiForm.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\KURSISHI_11\\UquvchiForm.cs [Design]",
+              "RelativeToolTip": "UquvchiForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T10:16:29.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\KURSISHI_11\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\KURSISHI_11\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T09:06:16.446Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\KURSISHI_11\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\KURSISHI_11\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T09:11:00.723Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UqtuvchiForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\KURSISHI_11\\UqtuvchiForm.cs",
+              "RelativeDocumentMoniker": "UqtuvchiForm.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\KURSISHI_11\\UqtuvchiForm.cs [Design]",
+              "RelativeToolTip": "UqtuvchiForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T10:09:05.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AdminForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\KURSISHI_11\\AdminForm.cs",
+              "RelativeDocumentMoniker": "AdminForm.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\KURSISHI_11\\AdminForm.cs [Design]",
+              "RelativeToolTip": "AdminForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T09:22:23.74Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ChatForm.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\KURSISHI_11\\ChatForm.cs",
+              "RelativeDocumentMoniker": "ChatForm.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\KURSISHI_11\\ChatForm.cs",
+              "RelativeToolTip": "ChatForm.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAAAEYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T02:40:39.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UqtuvchiForm.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\KURSISHI_11\\UqtuvchiForm.cs",
+              "RelativeDocumentMoniker": "UqtuvchiForm.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\KURSISHI_11\\UqtuvchiForm.cs",
+              "RelativeToolTip": "UqtuvchiForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T10:10:49.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UquvchiForm.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\KURSISHI_11\\UquvchiForm.cs",
+              "RelativeDocumentMoniker": "UquvchiForm.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\KURSISHI_11\\UquvchiForm.cs",
+              "RelativeToolTip": "UquvchiForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T10:18:03.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LoginParolUzgartirish.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\KURSISHI_11\\LoginParolUzgartirish.cs",
+              "RelativeDocumentMoniker": "LoginParolUzgartirish.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\KURSISHI_11\\LoginParolUzgartirish.cs",
+              "RelativeToolTip": "LoginParolUzgartirish.cs",
+              "ViewState": "AgIAAHsAAAAAAAAAAAAAAIUAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T07:33:02.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LoginParolUzgartirish.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\KURSISHI_11\\LoginParolUzgartirish.cs",
+              "RelativeDocumentMoniker": "LoginParolUzgartirish.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\KURSISHI_11\\LoginParolUzgartirish.cs [Design]",
+              "RelativeToolTip": "LoginParolUzgartirish.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T07:25:28.822Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\KURSISHI_11\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\KURSISHI_11\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T11:42:53.021Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

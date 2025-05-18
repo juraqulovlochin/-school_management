@@ -1,0 +1,32 @@
+# Visual Studio .gitignore for C# WinForms projects
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa][Rr][Mm]/
+bld/
+[Bb]in/
+[Oo]bj/
+
+# Installer output
+*.msi
+*.exe
+
+# Others
+*.log
+*.tlog
+.vscode/
+.idea/
+.localhistory/
+.DS_Store
+*.swp
+*.swo
